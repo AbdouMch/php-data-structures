@@ -8,3 +8,8 @@ It is based on the tutorial
 Use docker for an easy installation :
 - install docker container `make install`
 - run and enter the php container `make php`
+
+## Array
+
+- set, get, pop and push are contant time O(1)
+- insert, delete, shift and unshift are linear time O(n)
