@@ -13,3 +13,9 @@ Use docker for an easy installation :
 
 - set, get, pop and push are contant time O(1)
 - insert, delete, shift and unshift are linear time O(n)
+
+## Linked List
+- It has a reference to the head
+- counting the size is an O(n) time
+- adding an element at the head is O(1) time. Prepend method
+- 
